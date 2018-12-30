@@ -1,0 +1,3 @@
+/Users/sinabolouki/CLionProjects/tetrisWithGPIO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/sinabolouki/CLionProjects/tetrisWithGPIO/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sinabolouki/CLionProjects/tetrisWithGPIO/cmake-build-debug/CMakeFiles/tetrisWithGPIO.dir
